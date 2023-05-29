@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Targets
+  - GasTank
+  - Target
+  - Concrete
+  - Metal
+  - ExplosiveBarrel
+  - Targets2
+  - Targets3
+  - PlayerReset
   layers:
   - Default
   - TransparentFX

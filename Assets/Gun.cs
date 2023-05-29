@@ -16,7 +16,7 @@ public class Gun : MonoBehaviour
     public int maxAmmo = 10;
     public int currentAmmo { get; private set; }
     public float reloadTime = 1f;
-    private bool isReloading = false;
+    public bool isReloading = false;
     public static bool canShoot = true;
 
     public Camera fpsCam;
