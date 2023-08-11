@@ -18,5 +18,11 @@ void Die ()
     Destroy(gameObject);
 }
 
+void outline ()
+{
+    Outline outline = gameObject.AddComponent<Outline>();
+    outline.enabled = true;
+}
+
 
 }

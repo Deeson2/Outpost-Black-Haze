@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{d671c6a9-abf6-9fd6-f444-da22734548c5}</ProjectGuid>
+    <ProjectGuid>{18769dc0-0fa6-8db8-5022-4328e4464dc5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Rider.Editor</AssemblyName>
@@ -333,7 +333,7 @@
         <HintPath>D:\2021.3.16f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\unity crap\repo\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>D:\unity crap\repo - Copy\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>D:\2021.3.16f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -713,19 +713,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{d94f4f33-f59d-17a2-24a1-f1569c233ebf}</Project>
+      <Project>{a5432954-b49f-dd07-cf76-6858c3aaa7f2}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{77df7862-a3cd-5b3d-4776-2ce34bc74a04}</Project>
+      <Project>{c82b7ef9-4c8a-2b30-1d3e-ce598e8b7eb8}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{5afa80e1-b9cf-5f8f-e2f6-be5d0f625d78}</Project>
+      <Project>{17fadb53-37c0-76ec-f11a-b1ad1337aeaf}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{8bd1e0c3-faad-74ec-fa4f-b8eade10d2ee}</Project>
+      <Project>{e05ea6d0-e628-8ecb-c8d6-d4a38bac882d}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

@@ -3,7 +3,10 @@ guid: ff297ea6a9d54cf4ab65ab7177bfe8f2
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - targetsPrefab: {fileID: 3094629812477817689, guid: eb44231639fabde418279eec987013f7, type: 3}
+  - targetsPrefabKillroom: {fileID: 50259860863300149, guid: 13b74a6254127f54ea8ce5a48be7b3ae, type: 3}
+  - CounterText: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
